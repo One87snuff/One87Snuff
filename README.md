@@ -1,7 +1,7 @@
-## [](#table-of-contents) Table of contents
+## [TABLE OF CONTENTS](#)
 
-- [*TOP*-PENTEST/OSINT-LINKS/REF/ONELINERS/ONLINE-TOOLS](#*TOP*-PENTEST/OSINT-LINKS/REF/ONELINERS/ONLINE-TOOLS)
-- [MOST USEFULL SOCIAL MEDIA LINKS](#MOST-USEFULL-SOCIAL-MEDIA-LINKS)
+- [**-PENTEST/OSINT-RESOURCES/SOCIALMEDIA/REF/ONELINERS/ONLINE-TOOLS](#PENTEST-CHEATSHEET/ONE-LINERS/OSINT-RESOURCES/PENTEST-OSINT-ONLINE-TOOLS-TABLE-OF-CONTENTS)
+  
 - [SIMCards](#SIMCards)
 - [CELLULAR COMMUNICATION](#CELLULAR-COMMUNICATION)
 - [Street View/world-wide streetcams](#Street-view-and-Worldwide-street-webcams)
@@ -69,9 +69,9 @@
 ---
 ---
 
-## *TOP* PENTEST/OSINT LINKS/REF/ONELINERS/ONLINE-TOOLS
+## PENTEST CHEATSHEET/ONE-LINERS/OSINT-RESOURCES/PENTEST-OSINT-ONLINE-TOOLS TABLE OF CONTENTS
 
-* [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network)
+* [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network) 
 * [PTES_Technical_Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 * [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet/)
 * [ethical/pentest/osint Docs](https://lira.epac.to/DOCS-TECH/)
@@ -112,10 +112,6 @@
 - [windows cheat sheets](https://wadcoms.github.io/)
 - [pentest one liners](https://pentestbook.six2dez.com/)
 - [hacking articles](https://www.hackingarticles.in/)
----
-
-
-## MOST USEFULL SOCIAL MEDIA LINKS
 * [Email Breach-1](https://haveibeenpwned.com/)
 * [cyberchef](https://gchq.github.io/CyberChef/)
 * [Google advanced search](https://www.google.com/advanced_search)
