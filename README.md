@@ -1,7 +1,7 @@
 ## [TABLE OF CONTENTS](#)
 
-- [**-PENTEST/OSINT-RESOURCES/SOCIALMEDIA/REF/ONELINERS/ONLINE-TOOLS](#PENTEST-CHEATSHEET/ONE-LINERS/OSINT-RESOURCES/PENTEST-OSINT-ONLINE-TOOLS-TABLE-OF-CONTENTS)
-  
+- [* PENTEST CHEATSHEET/ONE-LINERS](#PENTEST-CHEATSHEET/ONE-LINERS)
+- [ONLINE OSINT/SOCIALMEDIA/PENTEST TOOLS](#ONLINE-OSINT/SOCIALMEDIA/PENTEST-TOOLS-AND-RESOURCES)
 - [SIMCards](#SIMCards)
 - [CELLULAR COMMUNICATION](#CELLULAR-COMMUNICATION)
 - [Street View/world-wide streetcams](#Street-view-and-Worldwide-street-webcams)
@@ -67,10 +67,9 @@
 - [VPN](#VPN)
 
 ---
----
+## PENTEST CHEATSHEET/ONE-LINERS 
 
-## PENTEST CHEATSHEET/ONE-LINERS/OSINT-RESOURCES/PENTEST-OSINT-ONLINE-TOOLS TABLE OF CONTENTS
-
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network) 
 * [PTES_Technical_Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 * [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet/)
@@ -80,19 +79,28 @@
 * [Pentesting Snippets](https://highon.coffee/blog/)
 * [oscp-journey/](https://scriptkidd1e.wordpress.com/oscp-journey/)
 * [offensive-security-experiments/offensive-security-cheetsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+* [pentest-wiki](https://github.com/nixawk/pentest-wiki) 
+* [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [hacker recipes](https://www.thehacker.recipes/)
+- [oscp guide](https://anhtai.me/oscp-fun-guide/)
+- [online cheatsheet pentest](https://hideandsec.sh/)
+- [windows cheat sheets](https://wadcoms.github.io/)
+- [pentest one liners](https://pentestbook.six2dez.com/)
+- [hacking articles](https://www.hackingarticles.in/)
+
+
+
+## ONLINE OSINT/SOCIALMEDIA/PENTEST TOOLS AND RESOURCES
+
 * [open-source-intelligence-osint](https://cheatsheet.haax.fr/open-source-intelligence-osint/)
 * [Osint resource list](#Osint-resource-list)
 * [https://osint.link](https://osint.link/)
 * [Osint framework](https://osintframework.com/)
 * [Osint essentials](https://www.osintessentials.com/)
-* [pentest-wiki](https://github.com/nixawk/pentest-wiki) 
 * [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
 * [osint-tools](https://www.advisor-bm.com/osint-tools)
-* [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
-* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
-* [shodan.io](https://www.shodan.io/)
 * [pentest-tools.com](https://pentest-tools.com)
 * [Osint Online](https://intelx.io/)
 * [Intrigue](http://intrigue.io) - Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
@@ -102,16 +110,9 @@
 * [Osint ihunt intel](https://nitinpandey.in/ihunt/)
 * [online investigator tools](https://abhijithb200.github.io/investigator/)
 * [Osint Social Media tools](https://www.osinttechniques.com/)
-- [oscp guide](https://anhtai.me/oscp-fun-guide/)
-- [hacker recipes](https://www.thehacker.recipes/)
 * [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-* [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-- [online cheatsheet pentest](https://hideandsec.sh/)
-- [windows cheat sheets](https://wadcoms.github.io/)
-- [pentest one liners](https://pentestbook.six2dez.com/)
-- [hacking articles](https://www.hackingarticles.in/)
 * [Email Breach-1](https://haveibeenpwned.com/)
 * [cyberchef](https://gchq.github.io/CyberChef/)
 * [Google advanced search](https://www.google.com/advanced_search)
