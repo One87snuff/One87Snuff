@@ -8,6 +8,9 @@
 - [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
 - [Dorks/Pentest/Vulnerabilities](#dorkspentestvulnerabilities)
 - [Searchers, scrapers, extractors, parsers](#searchers-scrapers-extractors-parsers)
+- [Face recognition and search](#face-recognition-and-search)
+- [Video editing and analyze](#video-editing-and-analyze)
+- [Image Search and Identification](#image-search-and-identification)
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 - [TikTok](#tiktok)
@@ -545,4 +548,703 @@
 - [Auto Scroll Search](https://chrome.google.com/webstore/detail/auto-scroll-search-scroll/ieceeinfkigfaeoomfimmecebngempef/) - A simple extension for Chrome that automatically scrolls a web page until a certain word or phrase appears on it (or until the stop button is pressed). -
 - [GoGetCrawl](https://github.com/karust/gogetcrawl) - Search and download archived web pages and files from Common Crawl and Wayback Machine. -
 
+
+## People Investigations
+
+
+* [People Search/Nettools](https://nettools.live)
+* [People Search](https://foller.me/people-search/h)
+* [First Last Name Search](http://snitch.name/)
+* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
+* [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+* [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
+* [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+* [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+* [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
+* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
+* [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
+* [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
+* [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+* [Kompass](http://www.kompass.com) - Business directory and search.
+* [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
+* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+* [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
+* [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
+* [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
+* [ZabaSearch](https://www.zabasearch.com/)
+* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
+* [Mugshots](https://mugshots.com/)
+* [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+
+* [](#noosint-tools)NOOSINT tools
+===============================
+
+
+
+- [Annotely](https://annotely.com/editor) - Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. -
+- [Pramp](https://www.pramp.com/) - The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers -
+- [RemindWhen](http://www.remindmewhen.io/) - Simple app that reminds you on email if your favorite country opens for tourists from your country. -
+- [Web--proxy](https://web--proxy.herokuapp.com/) - free web proxy -
+- [Google Docs Voice Comments](https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon) - simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms. -
+- [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) - This site will help you make atmospheric lettering for your command line tool or README. -
+- [Snow](https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget) - A very simple add-on that speeds up and simplifies the formatting of #GoogleDocs. "Show" shows non-printable characters (spaces, tabs, page breaks, indents, etc.) -
+- [Wide-band WebSDR](http://websdr.ewi.utwente.nl:8901/) - Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code) -
+- [Crontab guru](https://crontab.guru/) - Online "shedule expression" editor (for setting task times in Crontab files). -
+- [Chmod calculator](https://chmod-calculator.com/) - Calculate the octal numeric or symbolic value for a set of file or folder permissions in #Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format -
+- [Ray So](https://ray.so/) - A simple tool that allows you to beautifully design code as a picture (for social media post or article). -
+- [Windows Event Collection](https://www.ultimatewindowssecurity.com/) - A tool to help you understand #Windows, #SharePoint, #SQLServer and Exchange system security logs. -
+- [Hack This Page](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related) - A simple extension that allows you to edit the text of any web page. -
+- [Soundraw](https://soundraw.io/) - AI music generation -
+- [Screenshot - Full Page Screen Capture](https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related) - record a video of part of the screen using a very easy-to-use browser extension -
+- [Chepy](https://github.com/securisec/chepy) - Python command line version of CyberChef -
+- [Typeit](https://www.typeit.org/) - If the text in the picture is not recognised using Google Lens or other OCR tools, try just typing it character by character using the online keyboard. This website has these for 25 different languages. -
+- [Transform Tools](https://transform.tools/) - This tool is worth knowing for developers and anyone who has to work with different data formats. It can convert: JSON to MySQL, JavaScript to JSON, TypeScript to JavaScript, Markdown to HTML -
+- [Autoregex](https://www.autoregex.xyz/) - AI regular expressions generator. Generates a pattern by verbal description. It does not work perfectly (see picture with bitcoin wallet, there is an error, it does not always start with 13). But in general the service is very impressive! -
+- [MARKMAP](https://markmap.js.org/) - A simple and free online tool to convert Markdown to Mindmap (SVG or interactive HTML). Formatting options are not too many, but enough to create an informative and clear visualization. -
+- [Xmind Works](https://xmind.works/) - Online tool for open and editing .xmind files -
+- [CLIGPT](https://github.com/paij0se/cligpt) - The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts. -
+- [MarkWhen](https://markwhen.com/) - Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link. -
+
+
+[](#company-information-search)Company information search
+=========================================================
+
+* [AllStocksLinks](http://www.allstocks.com/links)
+* [Better Business Bureau](http://www.bbb.org)
+* [Bizeurope](http://www.bizeurope.com)
+* [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
+* [Business Source](https://www.ebscohost.com/academic/business-source-complete)
+* [Bureau Van Dijk](http://www.bvdinfo.com)
+* [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
+* [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
+* [Company Research Resources by Country Comparably](https://www.comparably.com)
+* [CompeteShark](http://competeshark.com)
+* [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
+* [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses. 
+* [Data.com Connect](https://connect.data.com)
+* [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
+* [Europages](http://www.europages.co.uk)
+* [European Business Register](http://www.ebr.org)
+* [Ezilon](http://www.ezilon.com)
+* [Factiva](https://global.factiva.com)
+* [Forbes Global 2000](http://www.forbes.com/global2000/)
+* [Glassdoor](https://www.glassdoor.com)
+* [globalEdge](http://globaledge.msu.edu)
+* [GuideStar](http://www.guidestar.org)
+* [Hoovers](http://www.hoovers.com)
+* [Inc. 5000](http://www.inc.com/inc5000)
+* [iSpionage](https://www.ispionage.com)
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+* [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
+* [Mergent Intellect](http://www.mergentintellect.com)
+* [Mergent Online](http://www.mergentonline.com/login.php)
+* [Notablist](https://www.notablist.com)
+* [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
+* [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
+* [OpenOwnership Register](https://register.openownership.org/)
+* [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
+* [Plunkett Research](http://www.plunkettresearchonline.com)
+* [Scoot](http://www.scoot.co.uk)
+* [SEMrush](https://www.semrush.com)
+* [Serpstat](https://serpstat.com)
+* [SpyFu](http://www.spyfu.com)
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
+* [Xing](http://www.xing.com)
+* [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.  
+* [BrownBook](https://www.brownbook.net/)
+* [CorporationWiki](https://www.corporationwiki.com/)
+* [GoodFirms](https://www.goodfirms.co/)
+* [YouControl](https://youcontrol.com.ua/en/)
+
+
+
+[](#bank-information-search)Bank information search
+===================================================
+
+
+
+- [FDIC search](https://banks.data.fdic.gov/bankfind-suite/bankfind) - Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it -
+- [Iban.com](https://www.iban.com/iban-checker) - Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced -
+- [Freebin Checker](https://api.freebinchecker.com/bin/658205) - easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database -
+- [Credit OSINT](https://github.com/krdsploit/Credit-OSINT) - A very simple #python tool to gather information about bank cards and validate them. -
+
+
+[](#universal-contact-search-and-leaks-search)Universal Contact Search and Leaks Search
+=======================================================================================
+
+
+
+- [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) - Get emails, social medias, adresses of peoples using web scraping and google dorking -
+- [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) - Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile -
+- [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - tool for searching nickname profiles on more than 300 sites -
+- [SovaWeb](http://sovaweb.herokuapp.com/) - web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID -
+- [BehindTheNames](https://www.behindthename.com) - when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them -
+- [My CSE for search in 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) - -
+- [Psbdmp.ws](https://psbdmp.ws) - search sensitive user data by 25 759 511 pastebins -
+- [Cybernews RockYour2021](https://cybernews.com/personal-data-leak-check/) - check if your data has been leaked -
+- [GoFindWho People Search](https://gofindwho.com/) - More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name. -
+- [That's them people search](https://thatsthem.com/people-search) - -
+- [Anywho](https://anywho.com/) - Search for people in #USA. Enter first and last name to get age, address, and part of phone number (free) -
+- [Usersearch.org](https://usersearch.org/index.php) - search people by nickname, phone or email -
+- [Ellis Island](http://heritage.statueofliberty.org) - online searchable database of 65 million arrivals to #NewYork between (late 19th and early 20th century). -
+- [recordsearch.naa.gov.au](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx) - National archives of #Australia -
+- [SpyDialer](https://www.spydialer.com/) - Free search contact information by phone number, name, address or email -
+- [Decoding Social Security Numbers in One Step](https://stevemorse.org/ssn/ssn.html) - -
+- [Inmate Database Search](http://inmateinfo.indy.gov/IML) - -
+- [Scamdigger.com](http://scamdigger.com/) - search in #scammers database by name, IP-adress, email or phone -
+- [Cloob.com](https://www.cloob.com/profile/search/index) - Iranian people search -
+- [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) - the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. -
+- [FEI Database Person Search](https://data.fei.org/Person/Search.aspx) - If the person you are researching is related to equestrian sports, check the FEI database for information about him or her. There you can find cards of riders, horse owners, grooms and fans around the world. -
+- [Name Variant Search](https://bellingcat.github.io/name-variant-search/#gsc.tab=0) - Type in a name and get a list of possible spelling options (+ quick links to Google, DuckDuckGo and Facebook searches for each option) -
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
+
+- [LeakCheck.io](https://leakcheck.io/) - Make sure your credentials haven't been compromised
+- [crackstation.net](https://crackstation.net/) -Massive pre-computed lookup tables to crack password hashes
+- [HashKiller](https://hashkiller.io/listmanager) - Pre-cracked Hashes, easily searchable
+- [LeakedPassword](https://leakedpassword.com/) - Search across multiple data breaches to see if your pass has been compromised
+- [BugMeNot](https://bugmenot.com/) - Find and share logins
+
+- [WikiLeaks](https://wikileaks.org/) - News leaks and classified media provided by anonymous sources
+- [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
+- [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
+- [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
+- [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
+- [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) -  Breaches, Data leaks, Exploits
+- [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
+
+* [Leaked.wiki](https://leaked.wiki/)
+* [Cached Pages](http://www.cachedpages.com/)
+* [DATA GOV CA](http://datagovca.com/)
+* [google hacking db](https://www.exploit-db.com/google-hacking-database)
+* [leaked Database](https://0day.today/)
+* [exploits](https://www.exploitalert.com/search-results.html)
+* [Bugtraq (BID)](http://www.securityfocus.com/bid/) - Software security bug identification database compiled from submissions to the SecurityFocus mailing list and other sources, operated by Symantec, Inc.
+* [CISA Known Vulnerabilities Database (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Vulnerabilities in various systems already known to America's cyber defense agency, the Cybersecurity and Infrastructure Security Agency, to be actively exploited.
+* [CXSecurity](https://cxsecurity.com/) - Archive of published CVE and Bugtraq software vulnerabilities cross-referenced with a Google dork database for discovering the listed vulnerability.
+
+* [China National Vulnerability Database (CNNVD)](http://www.cnnvd.org.cn/) - Chinese government-run vulnerability database analoguous to the United States's CVE database hosted by Mitre Corporation.
+* [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/) - Dictionary of common names (i.e., CVE Identifiers) for publicly known security vulnerabilities.
+* [Full-Disclosure](http://seclists.org/fulldisclosure/) - Public, vendor-neutral forum for detailed discussion of vulnerabilities, often publishes details before many other sources.
+* [GitHub Advisories](https://github.com/advisories/) - Public vulnerability advisories published by or affecting codebases hosted by GitHub, including open source projects.
+* [HPI-VDB](https://hpi-vdb.de/) - Aggregator of cross-referenced software vulnerabilities offering free-of-charge API access, provided by the Hasso-Plattner Institute, Potsdam.
+* [Inj3ct0r](https://www.0day.today/) - Exploit marketplace and vulnerability information aggregator. ([Onion service](http://mvfjfugdwgc5uwho.onion/).)
+* [Microsoft Security Advisories and Bulletins](https://docs.microsoft.com/en-us/security-updates/) - Archive and announcements of security advisories impacting Microsoft software, published by the Microsoft Security Response Center (MSRC).
+* [Mozilla Foundation Security Advisories](https://www.mozilla.org/security/advisories/) - Archive of security advisories impacting Mozilla software, including the Firefox Web Browser.
+* [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - United States government's National Vulnerability Database provides additional meta-data (CPE, CVSS scoring) of the standard CVE List along with a fine-grained search engine.
+* [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Database of vulnerabilities affecting open source software, queryable by project, Git commit, or version.
+* [Packet Storm](https://packetstormsecurity.com/files/) - Compendium of exploits, advisories, tools, and other security-related resources aggregated from across the industry.
+* [SecuriTeam](http://www.securiteam.com/) - Independent source of software vulnerability information.
+* [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for vulnerabilities known by Snyk.
+* [US-CERT Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - Summaries, technical details, remediation information, and lists of vendors affected by software vulnerabilities, aggregated by the United States Computer Emergency Response Team (US-CERT).
+* [VulDB](https://vuldb.com) - Independent vulnerability database with user community, exploit details, and additional meta data (e.g. CPE, CVSS, CWE)
+* [Vulnerability Lab](https://www.vulnerability-lab.com/) - Open forum for security advisories organized by category of exploit target.
+* [Vulners](https://vulners.com/) - Security database of software vulnerabilities.
+* [Vulmon](https://vulmon.com/) - Vulnerability search engine with vulnerability intelligence features that conducts full text searches in its database.
+* [Zero Day Initiative](http://zerodayinitiative.com/advisories/published/) - Bug bounty program with publicly accessible archive of published security advisories,
+ operated by TippingPoint.
+*Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
+* [GhostProject](https://ghostproject.fr/) - Searchable database of billions of cleartext passwords, partially visible for free.
+* [PacketTotal](https://packettotal.com/) - Simple, free, high-quality packet capture file analysis facilitating the quick detection of network-borne malware
+* [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+* [cl1p](https://Cl1p.net)
+* [codepad](http://codepad.org)
+* [controlc](https://Controlc.com)
+* [dpaste](https://Dpaste.com)
+* [dpaste2](https://Dpaste.org)
+* [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
+* [dumpz](https://Dumpz.org)
+* [GitHub gist](https://gist.github.com)
+* [hastebin](https://www.toptal.com/developers/hastebin/)
+* [heypasteit](https://Heypasteit.com)
+* [ideone](https://Ideone.com)
+* [ivpaste](https://Ivpaste.com)
+* [jsbin](https://Jsbin.com)
+* [justpaste](https://Justpaste.it)
+* [0bin](https://0bin.net)
+* [paste.debian](https://Paste.debian.net)
+* [paste.ee](https://Paste.ee)
+* [paste.centos](https://paste.centos.org)
+* [paste.kde](https://Paste.kde.org)
+* [Rentry](https://rentry.co/)
+
+- [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
+- [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
+- [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
+- [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
+- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
+- [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
+- [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) - A list of useful payloads and bypasses for Web Application Security
+- [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
+- [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
+- [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
+- [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
+- [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) - Showcase of accepted and disclosed submissions on Bugcrowd programs
+- [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
+- [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
+- [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
+- [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
+- [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
+- [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
+
+
+
+- [LaZagne](https://github.com/AlessandroZ/LaZagne)
+- [WirelessKeyView](https://www.nirsoft.net/utils/wireless_key.html)
+- [Windows credential manager](https://www.nirsoft.net/utils/credentials_file_view.html)
+- [Pillager](https://github.com/qwqdanchun/Pillager/)
+- [searchall](https://github.com/Naturehi666/searchall)
+
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+
+- [Leak-Lookup](https://leak-lookup.com/)
+- [Snusbase](https://snusbase.com/)
+- [LeakCheck.io](https://leakcheck.io/)
+- [crackstation.net](https://crackstation.net/)
+- [breachdirectory.org](https://breachdirectory.org/)
+- [Intel Techniques Breach Tool](https://inteltechniques.com/tools/Breaches.html)
+
+- [hashcat](https://github.com/hashcat/hashcat) A tool brute and crack password hash
+- [john](https://github.com/openwall/john) A tool brute and crack password hash 
+- [thc hydra](https://github.com/vanhauser-thc/thc-hydra) A tool brute and crack password 
+- [CiLocks](https://github.com/tegal1337/CiLocks) Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
+- [crackstation](https://crackstation.net/) Awesome database password crack and identifier
+- [Hashes](https://hashes.com/en/decrypt/hash) Awesome database password crack and identifier
+- [Hashes Escrow](https://hashes.com/en/escrow/view) You can earn money or make a password crack request with community help (Pay)
+
+- [SecLists](https://github.com/danielmiessler/SecLists) 
+- [SecDictionary](https://github.com/SexyBeast233/SecDictionary) 
+- [ffuf](https://github.com/ffuf/ffuf)
+- [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting)
+- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)
+- [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)
+- [PentesterSpecialDict](https://github.com/ppbibo/PentesterSpecialDict)
+- [fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
+- [wordlists](https://github.com/assetnote/wordlists)
+- [Hashmob](https://hashmob.net/resources/hashmob)
+- [RockYou2024](https://github.com/exploit-development/RockYou2024)
+
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+- [datarecovery](https://datarecovery.com/rd/default-passwords/)
+- [cirt.net](https://cirt.net/passwords)
+- [routerpasswords](https://www.routerpasswords.com/)
+- [portforward](https://portforward.com/router-password/)
+- [cleancss](https://www.cleancss.com/router-default/)
+- [toolmao](https://www.toolmao.com/baiduapp/routerpwd/)
+- [datarecovery](https://datarecovery.com/rd/default-passwords/)
+
+[](#phone-numbers)Phone numbers
+===============================
+
+
+
+- [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
+- [SpyDialer](https://spydialer.com/) - Free Reverse Lookup Search
+- [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
+- [National Cellular Directory](https://www.nationalcellulardirectory.com/) - Begin your comprehensive people search now
+- [Phone Validator](https://www.phonevalidator.com/) - Is it a cell phone or is it a landline or is it a fake?
+- [Free Carrier Lookup](https://freecarrierlookup.com/) - Enter a phone number and we'll return the carrier name
+- [RocketReach](https://rocketreach.co/) - Your first-degree connection to any professional
+- [sync.me](https://sync.me/) - Find out who called
+- [EmobileTracker](https://www.emobiletracker.com/) - Track Mobile Owner Name, Location and Mobile Service Provider
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/) - Find Out The Owner Of A Phone Number
+- [ThatsThem](https://thatsthem.com/reverse-phone-lookup) - Reverse phone lookup
+- [thisnumber.com](https://www.thisnumber.com/) - International Phone Directories
+- [usphonebook.com](https://www.usphonebook.com/) - Free Reverse Phone Number Lookup
+- [truepeoplesearch.com](https://www.truepeoplesearch.com/#) - Get current address, cell phone number, email address, relatives, friends and a lot more
+- [Tellows](https://www.tellows.com/) - Who is calling? The phone number reverse search
+- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
+- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
+- [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
+- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project wich helps you to find GSM BTS by MCC, MNC, LAC and CellID
+- [OldPhoneBook](http://www.oldphonebook.com/) - Intantly search a large selection from the past 20 years of USA phone listings
+- [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
+- [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more
+- [ZabaSearch Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup/) - Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More
+- [AnyWho Phone Lookup](https://www.anywho.com/reverse-phone-lookup/) - Find out information associated with a phone number
+- [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
+
+
+* [EmobileTracker.com](https://www.emobiletracker.com/)
+* [FreeCarrierLookup](https://freecarrierlookup.com/)
+* [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+* [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
+* [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+* [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
+
+* [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
+- [USA Telephone Directory Collection](https://www.loc.gov/collections/united-states-telephone-directory-collection/) - 3512 of paper "yellow" and "white" pages available for download in PDF published from 1887 to 1987 -
+- [Oldphonebook](http://www.oldphonebook.com/) - USA phonenumbers database from 1994 to 2014 -
+- [Phomber](https://github.com/s41r4j/phomber) - Get information about phone number with command line. -
+- [Numverify API](https://numverify.com/) - free api for global phone number lookup and validation -
+- [FireFly](https://github.com/Lexxrt/FireFly) - Get information about phone number using Numverify API -
+- [PhoneNumber OSINT](https://github.com/spider863644/PhoneNumber-OSINT) - Simple tool for gathering basic information about phone numbers (country code, timezone, provider) -
+
+[](#search-engines)Search engines
+=================================
+
+
+
+
+* [All-in-One](http://all-io.net)
+* [AllTheInternet](http://www.alltheinternet.com)
+* [Etools](http://www.etools.ch)
+* [FaganFinder](http://www.faganfinder.com/engines)
+* [Goofram](http://www.goofram.com)
+* [iZito](http://www.izito.com)
+* [Myallsearch](http://www.myallsearch.com)
+* [Qwant](http://www.qwant.com)
+* [Swisscows](https://swisscows.com/)
+* [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
+* [Baidu (China)](http://www.baidu.com) - The major search engine used in China
+* [Eniro (Sweden)](http://www.eniro.se)
+* [Goo (Japan)](http://www.goo.ne.jp)
+* [Najdsi (Slovenia)](http://www.najdi.si)
+* [Naver (South Korea)](http://www.naver.com)
+* [Onet.pl (Poland)](http://www.onet.pl)
+* [Orange (France)](http://www.orange.fr)
+* [Parseek (Iran)](http://www.parseek.com)
+* [SAPO (Portugal)](http://www.sapo.pt)
+* [Search.ch (Switzerland)](http://www.search.ch)
+* [Seznam(Czech Republic)](https://seznam.cz)
+* [Walla (Israel)](http://www.walla.co.il)
+* [Yandex (Russia)](http://www.yandex.com)
+* [Najdi.si (Slovenia)](http://www.najdi.si/)
+- [fnd.io](https://fnd.io/) - alternative search engine for the AppStore and iTunes -
+- [GlobalSpec Engineer Search Engine](https://www.globalspec.com/) - -
+- [URVX](https://uvrx.com) - Based by Google Custom Search tool for searching in popular cloud storages service -
+- [Mac Address Search Tool](http://mac.lc) - search by full Mac adress, part of Mac adress (prefix), vendor name or brand name -
+- [Hashatit.com](https://www.hashatit.com/) - hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest -
+- [Goo.ne.jp](https://www.goo.ne.jp/) - beautiful japanese search engine -
+- [Peteyvid](https://peteyvid.com) - search engine for 70 video hosting sites -
+- [3DFindit](https://3dfindit.com/textsearch) - tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs. 
+* [Aol](https://search.aol.com) - The web for America.
+* [Ask](https://www.ask.com) - Ask something and get a answer.
+* [Bing](https://www.bing.com) - Microsoft´s search engine.
+* [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
+* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
+* [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
+* [Google Search](https://www.google.com) - Most popular search engine.
+* [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
+* [Impersonal.me](http://www.impersonal.me)
+* [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
+* [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
+* [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
+* [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
+* [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+algorithms, knowledgebase and AI technology.
+* [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
+* [YOU](https://you.com) - AI search engine.
+
+
+- [Filechef](http://filechef.com) - tool for searching different type of files (videos, application, documents, audio, images) -
+- [Find Who Events](https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0) - Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor -
+- [Listennotes](https://www.listennotes.com/) - Podcast Search Engine -
+- [thereisabotforthat.com](https://thereisabotforthat.com/bots/search) - search by catalog of 5151 bots for 17 different apps and platforms -
+- [BooleanStringBank](https://www.scoperac.com/booleanstringbank/) - over 430+ strings and 3553+ keywords -
+- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) - browser extension uncensor google search results -
+- [Iconfinder.com](https://www.iconfinder.com/search) - Icons Search Engine -
+- [Google Datasets Search](https://datasetsearch.research.google.com/) - -
+- [Gifcities.org](https://gifcities.org/) - GIF Search Engine from archive.org -
+- [Presearch.org](https://presearch.org/) - privately decentralized search engine, powered by #blockchain technology -
+- [milled.com](https://milled.com/search) - search engine for searching through the texts of email marketing messages -
+- [Orion](https://github.com/Araekiel/orion) - open-Source Search Engine for social networking websites. -
+- [PacketTotal](https://packettotal.com/app/search) - .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. -
+- [SearXNG](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor -
+- [Yeggi](https://www.yeggi.com/) - 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. -
+- [Memegine](https://memegine.com/) - A search engine to find memes. Helps you find rare and obscure memes when Google fails. -
+- [ChatBottle](https://chatbottle.co/bots/) - A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. -
+- [search3](https://search3.com/) - New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab -
+- [DensePhrase](http://densephrases.korea.ac.kr/) - This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. -
+- [metaphor systems](https://metaphor.systems/) - A search engine with a new and unusual search method. This AI "trained to predict the next *link* (similar to the way GPT-3 predicts the next *word*)". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link. -
+
+
+### [](#darknetdeepweb-search-tools)Darknet/deepweb search tools
+
+
+
+- [Onion Search](https://github.com/megadose/OnionSearch) - -
+- [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) - Search links in #darknet (.onion domain zone) from command line without using a Tor network. -
+- [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) - -
+- [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) - -
+- [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) - Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. -
+- [Pasta](https://github.com/Kr0ff/Pasta) - Pastebin scraper, which generates random paste addresses and checks if there is any text in them. -
+- [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) - Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). -
+- [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) - Command line #python tool, which downloads all the pastes of a particular #Pastebin user. -
+- [Dark Fail](https://dark.fail/) - List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) -
+- [Darkweb archive](https://darkweb-archive.activetk.jp/) - Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. -
+
+
+[](#emails)Emails
+=================
+
+
+
+- [geeMail User Finder](https://github.com/dievus/geeMailUserFinder) - A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails. -
+- [Breachchecker.com](https://breachchecker.com/) - history of data leaks associated with a particular email address -
+- [Metric Sparrow email permulator](http://metricsparrow.com/toolkit/email-permutator/) - -
+- [snov.io email finder](https://snov.io/email-finder) - find emails of company employees by domain name. -
+- [Mailfoguess](https://github.com/WildSiphon/Mailfoguess) - tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails -
+- [Hunter.io](https://hunter.io/) - can link to an article to find its author and his email address -
+- [Mailcat](https://github.com/sharsil/mailcat) - find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases -
+- [H8mail](https://github.com/khast3x/h8mail) - email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent -
+- [MailBoxLayer API](https://mailboxlayer.com/) - free api for email adress checking -
+- [EmailHippo](https://tools.emailhippo.com/email/) - Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale. -
+- [Spycloud.com](https://spycloud.com/check-your-exposure/) - check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled -
+- [Gravatar check](https://en.gravatar.com/site/check/) - Just enter email and see what the person's Gravatar avatar looks like. -
+- [Email Permutator](https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0) - Google Sheet table that generate 46 variants of user email by first name, last name and domain -
+- [Have I Been Sold?](https://haveibeensold.app/) - The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming. -
+- [mailMeta](https://github.com/gr33nm0nk2802/mailMeta) - Simple tool to analyze emails headers and identify spoofed emails. -
+- [EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer) - Tool for analyzing .eml files. It analyzes and checks with VirusTotal links, attachments and headers. -
+- [Avatar API](https://avatarapi.com/) - Enter email address and receive an image of the avatar linked to it. Over a billion avatars in the database collected from public sources (such as Gravatar, Stackoverflow etc.) -
+- [Email Finder](https://www.experte.com/email-finder) - Enter a person's first and last name, domain name of a company or email service, and then get a list of possible email addresses with their status (free). -
+- [Defastra](https://defastra.com/) - Assesses the reliability of a phone or email on a number of different parameters. Displays social network profiles registered to the number or email. Partially free -
+- [OSINT Industries](https://osint.industries/email) - Enter emai/phonel and get a list of accounts that may be associated with it (accounts for which this email was used to register or those where the email in the profile description) -
+- [What Mail?](https://github.com/z0m31en7/WhatMail) - Simple #python tool for email headers analyze and visualize them in a table. -
+- [ZEHEF](https://github.com/N0rz3/Zehef) - A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). -
+- [Castrickclues](https://castrickclues.com/) - Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). -
+
+* [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
+* [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
+* [Email Address Validator](http://www.email-validator.net)
+* [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+* [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+* [Email Permutator](https://www.polished.app/email-permutator/)
+* [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+* [Holehe](https://github.com/megadose/holehe)
+* [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
+* [MailTester](http://mailtester.com)
+* [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
+* [Peepmail](http://www.samy.pl/peepmail)
+* [Pipl](https://pipl.com)
+* [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+* [ThatsThem](https://thatsthem.com/reverse-email-lookup)
+* [Toofr](https://www.toofr.com)
+* [Verify Email](http://verify-email.org)
+* [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+
+
+[](#nicknames)Nicknames
+=======================
+
+* [Check User Names](http://www.checkusernames.com)
+* [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
+* [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
+* [Name Chk](http://www.namechk.com)
+* [Name Checkr](http://www.namecheckr.com)
+* [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
+* [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+* [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+* [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+* [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+* [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+* [User Search](http://www.usersearch.org)
+* [WhatsMyName](https://whatsmyname.app/)
+* [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
+* [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+* [Social media username search](https://instantusername.com/#/)
+* [Social media Username search 3](https://www.social-searcher.com)
+
+- [@maigret\_osint\_bot](https://t.me/maigret_osint_bot) - check accounts by username on 1500 sites. Based on maigret CLI tool -
+- [Analyzeid.com Username Search](https://analyzeid.com/username/) - view "Summary" of accounts found: list of names used, locations, bio, creations dates etc. -
+- [NEXFIL](https://github.com/thewhiteh4t/nexfil) - Search username by 350 social media platforms -
+- [Spy](https://github.com/CYB3R-G0D/SPY) - Just another very quick and simple account checker by username (210 sites in list). -
+- [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - search for profiles in social networks by nickname -
+- [Aliens eye](https://github.com/BLINKING-IDIOT/Aliens_eye) - Find links to social media accounts in 70 websites by username -
+- [Thorndyke](https://github.com/rlyonheart/thorndyke) - Checks the availability of a specified username on over 200 websites -
+- [Marple](https://github.com/soxoj/marple) - It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results. -
+- [Holehe](https://github.com/megadose/holehe) - check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function -
+- [UserFinder](https://github.com/mishakorzik/UserFinder) - tool for finding profiles by username -
+- [Snoop](https://github.com/snooppr/snoop) - Search users profile by nickname -
+- [Pyosint](https://github.com/d8rkmind/Pyosint) - Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services -
+- [Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder) - When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. -
+- [Translit.net](https://translit.net) - Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names -
+- [NAMINT](https://seintpl.github.io/NAMINT/) - Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) -
+- [Username Availability Checker](https://username-check.herokuapp.com/) - Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. -
+- [BlackBird](https://github.com/p1ngul1n0/blackbird) - \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. -
+- [Nameberry](https://nameberry.com/search?q=john) - When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. -
+- [WhatsMyName](https://whatsmyname.app) - With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. -
+- [Go Sherlock](https://github.com/Longwater1234/go-sherlock) - #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. -
+- [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites. -
+- [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) - Similar to WhatsMyName but with options to extend search into email, phone and social handles. -
+
+
+### [](#face-recognition-and-search)Face recognition and search
+
+
+
+- [Face Recognition](https://github.com/ageitgey/face_recognition) - facial recognition api for Python and the command line -
+- [Facial composite (identikit) maker](http://facemaker.uvrg.org/) - -
+- [Search4faces.com](https://search4faces.com/) - search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit -
+- [Telegram Facemath bot](https://t.me/facematch_bot) - searching for a face among the archive of photographs from public events in Kazakhstan -
+
+
+## Image Search and Identification/edit
+
+
+
+- [News Myseldon](https://news.myseldon.com/en/) - from the photo looks for famous and little-known (like minor officials) people -
+- [Ascii2d.net](http://ascii2d.net) - Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download -
+- [Searchbyimage.app](https://searchbyimage.app/) - search clothes in online shops -
+- [Aliseeks.com](https://www.aliseeks.com/search) - search items by photo in AliExpress and Ebay -
+- [lykdat.com](https://lykdat.com/) - clothing reverse image search services -
+- [IQDB.org](https://iqdb.org/) - reverse image search specially for anime art -
+- [pic.sogou.com](https://pic.sogou.com/) - chinese reverse image search engine -
+- [Same Energy](https://same.energy/) - reverse image search engine for finding beautiful art and photos in the same style as the original picture -
+- [Revesearch.com](https://revesesearch.com) - allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing. -
+- [Image Search Assistant](https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related) - searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once -
+- [Pixsy](https://pixsy.com) - allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted -
+- [EveryPixel](https://www.everypixel.com/) - Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. -
+- [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) - Reverse image search engine for scientific and medical images -
+- [DepositPhotos Reverse Image Search](https://ru.depositphotos.com/search/by-images.html) - tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). -
+- [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree) - Upload a picture of a face and get three paintings that show similar people. -
+- [Image So Search](https://image.so.com/) - Qihoo 360 Reverse Images Search -
+- [GORIS](https://github.com/tanaikech/goris) - Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. -
+- [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) - How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. -
+- [Logobook](http://www.logobook.com/) - help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. -
+- [Immerse Zone](http://immerse.zone) - Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) -
+- [Lexica](https://lexica.art/) - Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. -
+- [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) - The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. -
+- [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) - 
+Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org) -
+- [Theinpaint](https://theinpaint.com/) - One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result). -
+- [GFPGAN](https://replicate.com/tencentarc/gfpgan) - Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos. -
+- [Remini AI Photo Enhancer](https://app.remini.ai/) - Tool allows to restore blurry faces to photos. -
+- [Letsenhance](https://letsenhance.io/) - Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast. -
+- [Media IO Watermark Remover](https://www.media.io/app/removeWatermark) - Select the area and mark the time frame in which you want to remove the object. Works for barely visible watermarks as well as for bright and large objects. -
+- [Remove.bg](https://www.remove.bg/) - Remove background from image with AI -
+- [Watermarkremover](https://www.watermarkremover.io/) - Remove watermark from image with AI -
+- [Instruct Pix2pix](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) - Image editing with prompt-
+- [Aperislove](https://www.aperisolve.com/) - Online steganography tool: PngCheck,Strings,Foremost,Binwalk,ExifTool,Outguess,Steghide,Zsteg,Blue/Green/Red/Superimposed -
+- [Sherloq](http://github.com/GuidoBartoli/sherloq) - open source image #forensic toolset made by profesional photograph Guido Bartoli -
+- [Image Color Picker](https://imagecolorpicker.com/) - pick color (HEX or RGB) from image or website screenshot -
+- [Find and Set Scale From Image](https://www.blocklayer.com/scale-fixereng.aspx) - -
+- [Image Forensic (Ghiro Online)](http://www.imageforensic.org/) - -
+- [compress-or-die.com/analyze](https://compress-or-die.com/analyze) - get detail information about images (exif, metatags, ICC_Profile, quantanisation tables) -
+- [aperisolve.fr](https://aperisolve.fr) - Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool. -
+- [Dicom Viewer](https://www.imaios.com/en/Imaios-Dicom-Viewer) - view MRI or CT photo online (.DCM files) -
+- [Caloriemama](https://www.caloriemama.ai/api) - AI can identify the type of food from the photo and give information about its caloric value. -
+- [BetterViewer](https://chrome.google.com/webstore/detail/betterviewer/llcpfkbjgkpmapiidpnohffjmmnhpmpb) - #Google Chrome extension for work with images. Right click on the picture and open it in new tab. You will get access to the following tools: Zoom, Flip, Rotate, Color picker, Extract text, Reverse image search, QR code scanner and much more -
+- [PhotoOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) - A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted. -
+- [Perceptual image analysis](https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/) - Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis -
+- [Plate Recognizer](https://platerecognizer.com/) - Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible. -
+- [Street clip](https://www.plugger.ai/models/street-clip) - AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️) -
+
+* [Baidu Images](https://image.baidu.com)
+* [Bing Images](https://www.bing.com/images)
+* [Clarify](https://clarify.io)
+* [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
+* [Flickr](https://flickr.com/search/)
+* [Google Image](https://images.google.com)
+* [Image Identification Project](https://www.imageidentify.com)
+* [Image Raider](https://www.imageraider.com)
+* [KarmaDecay](http://karmadecay.com)
+* [Lycos Image Search](https://search.lycos.com)
+* [PhotoBucket](https://photobucket.com)
+* [PicTriev](http://www.pictriev.com) - a face search engine.
+* [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces. 
+* [TinEye](https://tineye.com) - Reverse image search engine.
+* [Yahoo Image Search](https://images.search.yahoo.com)
+* [Yandex Images](https://www.yandex.com/images)
+* [Betaface](https://www.betaface.com/demo.html)
+* [Search4faces](https://search4faces.com/)
+* [ExifLooter](https://github.com/aydinnyunus/exiflooter)
+* [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
+* [Exif Search](http://www.exif-search.com)
+* [FotoForensics](http://www.fotoforensics.com)
+* [Ghiro](http://www.getghiro.org)
+* [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
+* [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
+* [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+* [Forensically](https://29a.ch/photo-forensics/)
+* [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [ImgOps](https://imgops.com/)
+* [Image/video Edit online](https://www3.lunapic.com)
+* [Image/video Edit online-2](https://www.editanything.ai/)
+* [Fake Image Detector](https://www.fakeimagedetector.com/)
+* [Image Metadata online-1](https://www.metadata2go.com/view-metadata)
+* [Image Metadata/Exif online-2](https://exif.tools/)
+* [Image Metadata Online-3](https://exifmeta.com/)
+* [Image Metadata online-4](https://www.verexif.com/en/)
+* [Image Metadata online-5](https://jimpl.com/)
+
+- [EXIF-PY](https://github.com/ianare/exif-py) - get exif data of photos thrue command line -
+- [Exif.app](http://exif.app) - Press "Diff check button", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow -
+- [Image Analyzer Addon](https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek) - View all images on a page and expose image properties, EXIF data, and one-click download -
+- [Online metadata viewer and editor](https://products.groupdocs.app/metadata/) - High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp. -
+- [Scan QR Code](https://4qrcode.com/scan-qr-code.php) - While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture -
+- [Identify plans](https://identify.plantnet.org/) - -
+- [Forensicdots.de](https://www.forensicdots.de/) - find "yellow dots" (Machine Identification Code) in printed documents -
+- [Image Diff Checker](https://www.diffchecker.com/image-diff/) - -
+- [Vsudo Geotag Tool](https://vsudo.net/tools/geotag) - tool for mass geotagging of photos -
+- [exifLooter](https://github.com/aydinnyunus/exifLooter) - Quick #go tool to automate work with EXIF data -
+- [PYMETA](https://github.com/m8sec/pymeta) - A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format. -
+
+
+[](#video-editing-and-analyze)Video editing and analyze
+=======================================================
+
+
+
+- [Scene detection](https://t.co/jHWseS1PUP) - Determine the timecodes on which there is a change of scenery in the video and significantly save time watching it -
+- [Get text from video](https://huggingface.co/spaces/kabita-choudhary/get_text_from_video) - Transcribe uploaded video file -
+- [EfficientNetV2](https://huggingface.co/spaces/Ron0420/EfficientNetV2_Deepfakes_Video_Detector) - DeepFake Video Detector -
+- [Downsub](https://downsub.com/) - Extract subtitles from video-
+- [Subtitlevideo](https://www.subtitlevideo.com/) - Extract subtitles from video -
+- [FlexClip](https://www.flexclip.com/tools/metadata-video/) - Get video metadata -
+- [Pix2Pix-Video ](https://huggingface.co/spaces/fffiloni/Pix2Pix-Video) - Edit video by prompt-
+- [unscreen.com](https://www.unscreen.com/) - remove the background from an uploaded video -
+- [TextGrab](https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related) - Simple #Chrome extension for copying and recognizing text from videos (#YouTube, #GoogleMeetup etc.) -
+- [Lossless Cut](https://github.com/mifi/lossless-cut) - #javascript #opensource swiss army knife for audio/video editing. -
+- [Movio.la](https://www.movio.la/) - Create spoken person video from text -
+- [Tagrum](https://targum.video/) - Upload a video file to the site or leave a link to the video. Wait a few minutes. Get a subtitled version of the video in English (other languages will probably be available later). -
+- [Scene Edit Detection](https://huggingface.co/spaces/fffiloni/scene-edit-detection) - A tool to help speed up and automate your video viewing. It highlights the frames where a new scene begins and allows you to quickly analyze the key semantic parts of the video. -
+
+* [Youtube Metadata](https://mattw.io/youtube-metadata)
+* [Youtube Comment Search](https://hadzy.com/)
+* [Aol Videos](http://on.aol.com)
+* [Bing Videos](http://www.bing.com/?scope=video)
+* [Blinkx](http://www.blinkx.com)
+* [Clarify](http://clarify.io)
+* [Clip Blast](http://www.clipblast.com)
+* [DailyMotion](http://www.dailymotion.com)
+* [Deturl](http://deturl.com)
+* [DownloadHealper](http://www.downloadhelper.net)
+* [Earthcam](http://www.earthcam.com)
+* [Insecam](http://insecam.org/)
+* [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
+* [Geosearch](http://www.geosearchtool.com)
+* [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
+* [LiveLeak](http://www.liveleak.com)
+* [Metacafe](http://www.metacafe.com)
+* [Metatube](http://www.metatube.com)
+* [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+* [Veoh](http://www.veoh.com)
+* [Vimeo](https://vimeo.com)
+* [Yahoo Video Search](http://video.search.yahoo.com)
+* [YouTube](https://www.youtube.com)
+* [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
+* [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
+* [YouTube Metadata](https://mattw.io/youtube-metadata/)
+* [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+* [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
+* [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
