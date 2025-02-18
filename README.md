@@ -1,11 +1,8 @@
 ## [TABLE OF CONTENTS](#)
 
-- [* PENTEST CHEATSHEET/ONE-LINERS](#PENTEST-CHEATSHEET/ONE-LINERS)
-- [ONLINE OSINT/SOCIALMEDIA/PENTEST TOOLS](#ONLINE-OSINT/SOCIALMEDIA/PENTEST-TOOLS-AND-RESOURCES)
-- [SIMCards](#SIMCards)
 - [CELLULAR COMMUNICATION](#CELLULAR-COMMUNICATION)
 - [Street View/world-wide streetcams](#Street-view-and-Worldwide-street-webcams)
-- [Military tracking](#military-tracking/visalisation)
+  ## socialmedia tools/onlinetools
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 - [TikTok](#tiktok)
@@ -49,7 +46,6 @@
 - [Phone numbers](#phone-numbers)
 - [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
 - [Sock Puppets](#sock-puppets)
-- [OSINT tools](#noosint-tools)
 - [Files](#files)
 - [IMEI and serial numbers](#imei-and-serial-numbers)
 - [Company information search](#company-information-search)
@@ -65,10 +61,7 @@
 - [account takeover](#account-takeover)
 - [XSS](#XSS)
 - [VPN](#VPN)
-
----
 ## PENTEST CHEATSHEET/ONE-LINERS 
-
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [AIO Pentest Book](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network) 
 * [PTES_Technical_Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
@@ -89,11 +82,7 @@
 - [windows cheat sheets](https://wadcoms.github.io/)
 - [pentest one liners](https://pentestbook.six2dez.com/)
 - [hacking articles](https://www.hackingarticles.in/)
-
-
-
 ## ONLINE OSINT/SOCIALMEDIA/PENTEST TOOLS AND RESOURCES
-
 * [open-source-intelligence-osint](https://cheatsheet.haax.fr/open-source-intelligence-osint/)
 * [Osint resource list](#Osint-resource-list)
 * [https://osint.link](https://osint.link/)
@@ -131,15 +120,10 @@
 - [Chat-downloader](https://github.com/xenova/chat-downloader) - download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook. 
 - [FindMyFBID](https://randomtools.io/) - Toolkit for collecting data from social networks 
 - [Khalil Shreateh Social Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/) - More than 20 tools to extend the standard functionality of #Facebook, #TikTok, #Instagram, #Twitter (information gathering, random pickers for contests, content downloaders etc.) -
-
 - [SNScrape](https://github.com/JustAnotherArchivist/snscrape) - Tool for search posts and gathering information about users in Twitter, Reddit, Vkontakte, Weibo, Telegram, Facebook, Instagram, Telegram and Mastodon. -
-
 - [Kworb](https://kworb.net/) - A lot of different statistics on views and listens collected from #YouTube, #iTunes, #Spotify. Ratings by country, year, music type, and more. -
-
 - [The Visualized](https://thevisualized.com/) - visualize profile tweets to see the most popular from the last month; get info about the use of a particular hashtag (popular tweets, related hashtags, profiles that frequently use this hashtag); lists of #Twitter and #YouTube trends by country; -
-
 - [CommentPicker](https://commentpicker.com/) - Facebook profiles/posts ID finder Export Facebook like and comments YouTube Tag Extractor Instagram profile analyzer Twitter account data export -
- 
 * [SocialBakers](http://www.socialbakers.com)
 * [Social DownORNot](http://social.downornot.com)
 * [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
@@ -149,37 +133,6 @@
 - [YouTube Geofind](https://mattw.io/youtube-geofind/) - view YouTube geottaged video on map -
 
 ---
-
-
-## SIMCards
-
-- [PySIM](https://osmocom.org/projects/pysim/wiki) - Set of tools to read / explore / decode and program (write) SIM/USIM/ISIM cards. Useful to manage and program modifiable SIM cards such as the sysmocom ones.
-- [sysmoISIM-SJA5](https://www.sysmocom.de/products/sim/sysmoisim-sja5/) - latest generation of programmable/modifiable SIM/UICC/USIM/ISIM card with support up to 3GPP Release 17. Ideal for any type of lab/research network (irrespective of RAN/CN vendor).
-- [SIMTrace2](https://osmocom.org/projects/simtrace2) - Osmocom SIMtrace2 is a hardware device and associated firmware + host software to trace the communication between phone and SIM card.  Also supports emulating the card-side of the ISO7816 interface.  Firmware now also supports other hardware like [ngff-cardem](https://osmocom.org/projects/ngff-cardem/wiki)
-- [SIMTester](https://opensource.srlabs.de/projects/simtester) - SIMtester assess SIM card security in two dimensions : Cryptanalytic attack surface, Application attack surface.
-- [Njiwa - M2M UICC](https://github.com/brucedchen1991/njiwa) - Njiwa (Swahili for homing pigeon) is an implementation of the GSMA's Embedded SIM Remote Provisioning Manager for M2M devices. (Note: original repo is missing, replacing by a fork).
-- [LPAd SM-DP+ Connector](https://github.com/Truphone/LPAd_SM-DPPlus_Connector) - Local Profile Assistant for Device (LPAd) - LPAd SM-DP+ Connector
-- [sysmo-usim-tool](https://gitea.sysmocom.de/sysmocom/sysmo-usim-tool) - Utility for managing proprietary bits of sysmoUSIM/sysmoISIM programmable cards
-- [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) -  A tool to load and manage SIM applets on compatible JavaCards from command line from MArtin Paljak.
-- [ARA-M Applet](https://github.com/bertrandmartel/aram-applet) -  ARA-M implementation for JavaCards by Bertrand Martel.
-- [CoIMS_wiki](https://github.com/herlesupreeth/CoIMS_Wiki) - Guide for overriding IMS settings to force enable VoLTE/VoWiFi using Carrier Privileges, with its companion app on the Google Play store [CoIMS](https://play.google.com/store/apps/details?id=com.sherle.coims).
-- [HelloSTK2](https://github.com/mrlnc/HelloSTK2) - My 2021's guide to HelloSTK [...] but maybe this "guide" helps you to build and install SIM-Toolkit applets.
-- [Generic-eUICC-Test-Profile](https://github.com/GSMATerminals/Generic-eUICC-Test-Profile-for-Device-Testing-Public) - [...] to normalize the way in which Test Profiles for embedded UICCs will be available, and configurable, for industry standardised testing.
-- [SUPI with pysim](https://gist.github.com/mrlnc/01d6300f1904f154d969ff205136b753) - Notes on enabling SUPI with pysim.
-- [ScapySMS](https://github.com/mnemonic-no/ScapySMS) - A Scapy implementation of SMS-SUBMIT and (U)SIM Application Toolkit command packets.
-- [ISD-R Access Provider](https://github.com/cheeriotb/ISD-R-AccessProvider) - This application contains a tiny content provider for communicating with ISD-R in eSIM soldered on Android device (developed for Pixel4).
-- [asterix](https://github.com/suma12/asterix) - asterix is a framework for communication with smartcards based on pyscard.
-- [SimServerAndroid](https://github.com/zhuowei/SimServerAndroid) - Gets SIM card ICCID/runs 3G Authentication over ADB shell.
-- [swSIM](https://github.com/tomasz-lisowski/swsim) - A software-only SIM card.
-- [swICC](https://github.com/tomasz-lisowski/swicc) - A framework for creating smart cards (ICC-based cards with contacts).
-- [vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards.
-- [OpenEUICC](https://gitea.angry.im/PeterCxy/OpenEUICC) - (WIP) eSIM LPA (Local Profile Assistant) implementation for Android. System privilege required.
-- [mobile-atlas](https://github.com/sbaresearch/mobile-atlas) - MobileAtlas implements the promising approach to geographically decouple SIM card and modem, which boosts the scalability and flexibility of the measurement platform.
-- [osmo-remsim](https://osmocom.org/projects/osmo-remsim/wiki) - software suite permitting forwarding of SIM card traffic to a _remote_ SIM card (via TCP/IP).
-- [lpac](https://github.com/estkme-group/lpac) - C-language implementation of a Consumer eSIM LPAd.  Can be used to download/activate/deactivate profiles on eUICC.
-- [Onomondo UICC](https://github.com/onomondo/onomondo-uicc) - This repository contains a pure software implementation/emulation of the most relevant SIM/UICC/USIM functionalities.
-
-
 ---
 
 ## CELLULAR COMMUNICATION
@@ -277,6 +230,33 @@
 - [jdiameter](https://github.com/RestComm/jdiameter/) - RestComm jDiameter provides an Open Source Java implementation of the Diameter standard for Authentication, Authorization, and Accounting (AAA).
 - [diafuzzer](https://github.com/Orange-OpenSource/diafuzzer) - Diameter fuzzer, based on specifications of Diameter applications following rfc 3588 / 6733 from Orange.
 - [bromelia](https://github.com/heimiricmr/bromelia) - A Python micro framework for building Diameter protocol applications.
+## SIMCards
+
+- [PySIM](https://osmocom.org/projects/pysim/wiki) - Set of tools to read / explore / decode and program (write) SIM/USIM/ISIM cards. Useful to manage and program modifiable SIM cards such as the sysmocom ones.
+- [sysmoISIM-SJA5](https://www.sysmocom.de/products/sim/sysmoisim-sja5/) - latest generation of programmable/modifiable SIM/UICC/USIM/ISIM card with support up to 3GPP Release 17. Ideal for any type of lab/research network (irrespective of RAN/CN vendor).
+- [SIMTrace2](https://osmocom.org/projects/simtrace2) - Osmocom SIMtrace2 is a hardware device and associated firmware + host software to trace the communication between phone and SIM card.  Also supports emulating the card-side of the ISO7816 interface.  Firmware now also supports other hardware like [ngff-cardem](https://osmocom.org/projects/ngff-cardem/wiki)
+- [SIMTester](https://opensource.srlabs.de/projects/simtester) - SIMtester assess SIM card security in two dimensions : Cryptanalytic attack surface, Application attack surface.
+- [Njiwa - M2M UICC](https://github.com/brucedchen1991/njiwa) - Njiwa (Swahili for homing pigeon) is an implementation of the GSMA's Embedded SIM Remote Provisioning Manager for M2M devices. (Note: original repo is missing, replacing by a fork).
+- [LPAd SM-DP+ Connector](https://github.com/Truphone/LPAd_SM-DPPlus_Connector) - Local Profile Assistant for Device (LPAd) - LPAd SM-DP+ Connector
+- [sysmo-usim-tool](https://gitea.sysmocom.de/sysmocom/sysmo-usim-tool) - Utility for managing proprietary bits of sysmoUSIM/sysmoISIM programmable cards
+- [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) -  A tool to load and manage SIM applets on compatible JavaCards from command line from MArtin Paljak.
+- [ARA-M Applet](https://github.com/bertrandmartel/aram-applet) -  ARA-M implementation for JavaCards by Bertrand Martel.
+- [CoIMS_wiki](https://github.com/herlesupreeth/CoIMS_Wiki) - Guide for overriding IMS settings to force enable VoLTE/VoWiFi using Carrier Privileges, with its companion app on the Google Play store [CoIMS](https://play.google.com/store/apps/details?id=com.sherle.coims).
+- [HelloSTK2](https://github.com/mrlnc/HelloSTK2) - My 2021's guide to HelloSTK [...] but maybe this "guide" helps you to build and install SIM-Toolkit applets.
+- [Generic-eUICC-Test-Profile](https://github.com/GSMATerminals/Generic-eUICC-Test-Profile-for-Device-Testing-Public) - [...] to normalize the way in which Test Profiles for embedded UICCs will be available, and configurable, for industry standardised testing.
+- [SUPI with pysim](https://gist.github.com/mrlnc/01d6300f1904f154d969ff205136b753) - Notes on enabling SUPI with pysim.
+- [ScapySMS](https://github.com/mnemonic-no/ScapySMS) - A Scapy implementation of SMS-SUBMIT and (U)SIM Application Toolkit command packets.
+- [ISD-R Access Provider](https://github.com/cheeriotb/ISD-R-AccessProvider) - This application contains a tiny content provider for communicating with ISD-R in eSIM soldered on Android device (developed for Pixel4).
+- [asterix](https://github.com/suma12/asterix) - asterix is a framework for communication with smartcards based on pyscard.
+- [SimServerAndroid](https://github.com/zhuowei/SimServerAndroid) - Gets SIM card ICCID/runs 3G Authentication over ADB shell.
+- [swSIM](https://github.com/tomasz-lisowski/swsim) - A software-only SIM card.
+- [swICC](https://github.com/tomasz-lisowski/swicc) - A framework for creating smart cards (ICC-based cards with contacts).
+- [vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards.
+- [OpenEUICC](https://gitea.angry.im/PeterCxy/OpenEUICC) - (WIP) eSIM LPA (Local Profile Assistant) implementation for Android. System privilege required.
+- [mobile-atlas](https://github.com/sbaresearch/mobile-atlas) - MobileAtlas implements the promising approach to geographically decouple SIM card and modem, which boosts the scalability and flexibility of the measurement platform.
+- [osmo-remsim](https://osmocom.org/projects/osmo-remsim/wiki) - software suite permitting forwarding of SIM card traffic to a _remote_ SIM card (via TCP/IP).
+- [lpac](https://github.com/estkme-group/lpac) - C-language implementation of a Consumer eSIM LPAd.  Can be used to download/activate/deactivate profiles on eUICC.
+- [Onomondo UICC](https://github.com/onomondo/onomondo-uicc) - This repository contains a pure software implementation/emulation of the most relevant SIM/UICC/USIM functionalities.
 
 ---
 
@@ -309,28 +289,6 @@
 - [Collection of cadastral maps](https://cipher387.github.io/collection_of_cadastral_maps/) - 41 countries -
 - [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) - Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates). -
 - [European World Translator](https://ukdataexplorer.com/european-translator/) - Enter the word in English to see its translation into different European languages on the map. -
-
----
-
-### [](#military-tracking)Military tracking/visualisation
-
-
-- [ADS-b.nl](https://www.ads-b.nl) - tracking military aircrafts. -
-- [Planefinder Army Live Flight Tracker](https://planefinder.net/flight/ARMY). - -
-- [Itamilradar](https://www.itamilradar.com) - track military flights over Italy and over the Mediterranean Sea. -
-- [MarineVesselFinder](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) - military ship tracking. -
-- [BellingCat Radar Interfence Tracker](https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;) - -
-- [WEBSDR](http://websdr.ewi.utwente.nl:8901) - online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code). -
-- [Russia-Ukraine Monitor Map](https://www.info-res.org/map) - represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity . -
-- [Ukraine liveuamap.com](https://liveuamap.com/ru) - online tracking of war-related events in Ukraine. -
-- [Syria Liveuamap](https://syria.liveuamap.com) - online tracking of war-related events in Syria. -
-- [NATO.int](https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1) - Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges. -
-- [Understanding War Map Room](https://www.understandingwar.org/map-room) - collection of maps illustrating military conflicts in different countries. -
-- [US Military Bases Interactive Worldwide Map](https://worldbeyondwar.org/no-bases/) - Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information. 
-
-- [Map.Army](https://www.map.army/) - Online tool for creating schemes of battles and military operations on the map. Extensive customization possibilities and a huge library of symbols. -
-- [MGRS Mapper](https://mgrs-mapper.com/) - Build and share custom maps with standard military graphics using a simple visual interface (paod) -
-- [ArgGis Military Overlay](https://solutions.arcgis.com/defense/help/military-overlay/) - Military Overlay can be used to create overlays with standard military symbols, by using and adapting existing feature templates in **ArgGis Pro** -
 
 ---
 
