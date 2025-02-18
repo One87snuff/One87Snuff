@@ -24,7 +24,7 @@
 - [Telegram](#telegram)
 - [WhatsApp](#whatsapp)
 - [Skype](#skype)
-
+- [Netflix](#netflix)
 
 
 
@@ -366,6 +366,27 @@
 - [vedbex.com/tools/email2skype](https://www.vedbex.com/tools/email2skype) - finding a Skype account by email -
 - [SkypeHunt](https://github.com/8C/skypehunt) - A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information. -
 
+### [](#netflix)Netflix
+
+
+- [Reelgood.com](https://reelgood.com/) - search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus) -
+- [IMCDB](http://imcdb.org) - Internet Movie Cars Database -
+- [Sympsons screencaps search](https://frinkiac.com/) - -
+- [Search Futuruma screencaps](https://morbotron.com/) - -
+- [Rick and Morty screencaps search](https://masterofallscience.com/) - -
+- [Subzin.com](http://www.subzin.com/) - by one phrase will find the movie, as well as the full text of the dialogue with the timing -
+- [Doesthedogdie](https://www.doesthedogdie.com/) - This is an ingenious site that lets you find out if a movie (video game) has scenes that might upset someone (death of dogs, cats and horses, animal abuse, domestic violence etc). -
+- [PlayPhrase](https://playphrase.me/) - Search across 7 million + phrase from movies and watch fragments in which this3 phrase is spoken. -
+
+- [Unogs.com](http://unogs.com/) - Netflix search without registration -
+- [flixable.com](http://flixable.com) - alternative way to find anything interesting on Netflix -
+- [flixwatch.co](http://flixwatch.co) - alternative way to find anything interesting on Netflix -
+- [flicksurfer.com](http://flicksurfer.com) - alternative way to find anything interesting on Netflix -
+- [flixboss.com](http://flixboss.com) - alternative way to find anything interesting on Netflix -
+- [flickmetrix.com](http://flickmetrix.com) - alternative way to find anything interesting on Netflix -
+- [whatthehellshouldiwatchonnetflix.com](http://whatthehellshouldiwatchonnetflix.com) - alternative way to find anything interesting on Netflix -
+- [netflix-codes.com](http://netflix-codes.com) - alternative way to find anything interesting on Netflix -
+
 
 
 [](#downloaders)Downloaders
@@ -523,3 +544,5 @@
 - [USCRAPPER](https://github.com/z0m31en7/Uscrapper) - Simple #python tool for extracting different information from web pages: - email addresses - social media links - phone numbers -
 - [Auto Scroll Search](https://chrome.google.com/webstore/detail/auto-scroll-search-scroll/ieceeinfkigfaeoomfimmecebngempef/) - A simple extension for Chrome that automatically scrolls a web page until a certain word or phrase appears on it (or until the stop button is pressed). -
 - [GoGetCrawl](https://github.com/karust/gogetcrawl) - Search and download archived web pages and files from Common Crawl and Wayback Machine. -
+
+
