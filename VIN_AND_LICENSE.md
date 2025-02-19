@@ -1,0 +1,23 @@
+## VIN Checker 
+
+- [faxvin](https://www.faxvin.com/)
+- [vehiclehistory](https://www.vehiclehistory.com/)
+- [vindecoderz](https://www.vindecoderz.com/)
+- [fordvinlookup](https://www.fordvinlookup.com/)
+- [chevroletforum](https://chevroletforum.com/forum/vindecoder.php)
+- [hyundaiforum](https://www.hyundaiforum.com/forum/vindecoder.php)
+- [nissanusa](https://www.nissanusa.com/recalls-vin.html)
+- [cadillacforum](https://www.cadillacforum.com/forum/vindecoder.php)
+- [dodgeforum](https://dodgeforum.com/forum/vindecoder.php)
+- [toyota](https://www.toyota.com/owners/my-vehicle/vehicle-specification.html)
+- [audiworld](https://www.audiworld.com/forums/vindecoder.php)
+- [vinpit](https://vinpit.com/vin-decoder/yamaha)
+- [scionlife](https://www.scionlife.com/forums/vindecoder.php)
+- [nhtsa](https://www.nhtsa.gov/vin-decoder)
+- [bigrigvin](https://bigrigvin.com/)
+- [cartell Japan](https://www.cartell.ie/japanese-import/)
+- [carvx JP](https://carvx.jp/)
+- [cyclevin](https://cyclevin.com/)
+- [epicvin](https://epicvin.com/)
+* [License plate query](https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada)
+
